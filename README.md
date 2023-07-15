@@ -51,10 +51,10 @@
 <h2>Agradecimentos</h2>
 
 <ul>
-  <li>Agradeço a todos que contribuíram para este projeto.</li>
+ 
   <li>Inspirado pela interface do iPhone, desenvolvido pela Apple.</li>
 </ul>
 
 <p>Espero que você goste deste projeto! Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.</p>
 
-<p>Obrigado!</p>
+
